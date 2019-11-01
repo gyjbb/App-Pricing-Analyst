@@ -9,7 +9,7 @@ During the project, we firstly pre-processed the data. Cleaning for each column 
 
 Later in the feature engineering process, we got several thought-provoking findings for the following questions. For example, why most apps are free of charge while downloading? Are they really free? What categories are the paid apps belong to? Are the paid apps rated higher than the free apps by customers? All of these questions come from the vivid graphs we generated. And we gave our plausible explanations in this part.
 
-Finally, we built models to analyze the factors affecting apps pricing and rating. Linear regression, logistic regression, random forest models were built. The simulation accuracy rate is high, which partly attributes to the biased dataset and too much apps are set free. Through investigation, we found that a large number of apps are now profitable by providing other paid services after downloading. So we suggest "free download first, then customized serves are charged later" for most app development in order to gain more customers when new apps firstly release.
+Finally, we built models to analyze the factors affecting apps pricing and rating. Linear regression, logistic regression, random forest models were built. The simulation accuracy rate is high, which partly attributes to the biased dataset and too much apps are set free. Through investigation, we found that a large number of apps are now profitable by providing other paid services after downloading. So we suggest "free download first, then customized serves are charged later" for most app development in order to gain more customers when new apps are released for the first time.
 
 
 
